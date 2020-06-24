@@ -1,0 +1,157 @@
+<resources>
+    <string name="app_name">Арабский алфавит</string>
+    <string name="openLetters">open_letters</string>
+
+    //this is arabic text resourse
+    //1
+    <string name="a11">а</string>
+    <string name="a12">и</string>
+    <string name="a13">у</string>
+    //2
+    <string name="a21">ба</string>
+    <string name="a22">би</string>
+    <string name="a23">бу</string>
+    <string name="a24">бъ</string>
+    //3
+    <string name="a31">та</string>
+    <string name="a32">ти</string>
+    <string name="a33">ту</string>
+    <string name="a34">тъ</string>
+    //4
+    <string name="a41">са</string>
+    <string name="a42">си</string>
+    <string name="a43">су</string>
+    <string name="a44">съ</string>
+    //5
+    <string name="a51">джа</string>
+    <string name="a52">джи</string>
+    <string name="a53">джу</string>
+    <string name="a54">джъ</string>
+    //6
+    <string name="a61">ха</string>
+    <string name="a62">хи</string>
+    <string name="a63">ху</string>
+    <string name="a64">хъ</string>
+    //7
+    <string name="a71">ха</string>
+    <string name="a72">хи</string>
+    <string name="a73">ху</string>
+    <string name="a74">хъ</string>
+    //8
+    <string name="a81">да</string>
+    <string name="a82">ди</string>
+    <string name="a83">ду</string>
+    <string name="a84">дъ</string>
+    //9
+    <string name="a91">за</string>
+    <string name="a92">зи</string>
+    <string name="a93">зу</string>
+    <string name="a94">зъ</string>
+    //10
+    <string name="a101">ра</string>
+    <string name="a102">ри</string>
+    <string name="a103">ру</string>
+    <string name="a104">ръ</string>
+    //11
+    <string name="a111">за</string>
+    <string name="a112">зи</string>
+    <string name="a113">зу</string>
+    <string name="a114">зъ</string>
+    //12
+    <string name="a121">са</string>
+    <string name="a122">си</string>
+    <string name="a123">су</string>
+    <string name="a124">съ</string>
+    //13
+    <string name="a131">ша</string>
+    <string name="a132">ши</string>
+    <string name="a133">шу</string>
+    <string name="a134">шъ</string>
+    //14
+    <string name="a141">са</string>
+    <string name="a142">си</string>
+    <string name="a143">су</string>
+    <string name="a144">съ</string>
+    //15
+    <string name="a151">да</string>
+    <string name="a152">ди</string>
+    <string name="a153">ду</string>
+    <string name="a154">дъ</string>
+    //16
+    <string name="a161">та</string>
+    <string name="a162">ти</string>
+    <string name="a163">ту</string>
+    <string name="a164">тъ</string>
+    //17
+    <string name="a171">за</string>
+    <string name="a172">зи</string>
+    <string name="a173">зу</string>
+    <string name="a174">зъ</string>
+    //18
+    <string name="a181">aа</string>
+    <string name="a182">aу</string>
+    <string name="a183">aи</string>
+    <string name="a184">aъ</string>
+    //19
+    <string name="a191">га</string>
+    <string name="a192">ги</string>
+    <string name="a193">гу</string>
+    <string name="a194">гъ</string>
+    //20
+    <string name="a201">фа</string>
+    <string name="a202">фи</string>
+    <string name="a203">фу</string>
+    <string name="a204">фъ</string>
+    //21
+    <string name="a211">къа</string>
+    <string name="a212">къи</string>
+    <string name="a213">къу</string>
+    <string name="a214">къ</string>
+
+
+    //22
+    <string name="a221">ка</string>
+    <string name="a222">ки</string>
+    <string name="a223">ку</string>
+    <string name="a224">къ</string>
+    //23
+    <string name="a231">ла</string>
+    <string name="a232">ли</string>
+    <string name="a233">лу</string>
+    <string name="a234">лъ</string>
+    //24
+    <string name="a241">ма</string>
+    <string name="a242">ми</string>
+    <string name="a243">му</string>
+    <string name="a244">мъ</string>
+    //25
+    <string name="a251">на</string>
+    <string name="a252">ни</string>
+    <string name="a253">ну</string>
+    <string name="a254">нъ</string>
+    //26
+    <string name="a261">гьа</string>
+    <string name="a262">гьи</string>
+    <string name="a263">гьу</string>
+    <string name="a264">гьъ</string>
+    //27
+    <string name="a271">уа</string>
+    <string name="a272">уи</string>
+    <string name="a273">уу</string>
+    <string name="a274">уъ</string>
+    //28
+    <string name="a281">йа</string>
+    <string name="a282">йи</string>
+    <string name="a283">йу</string>
+    <string name="a284">йъ</string>
+    <string name="login_info_text">Аутентификация используется для сохранения и синхронизации вашего прогресса с другими устройствами</string>
+    <string name="title_activity_menu">MenuActivity</string>
+
+    <string name="courses">Курсы</string>
+    <string name="questions">Задачи</string>
+    <string name="profile">Профиль</string>
+    <string name="settings">Настройки</string>
+    <string name="alfabet">Арабский алфавит</string>
+
+    //this is arabic text resourse
+</resources>
